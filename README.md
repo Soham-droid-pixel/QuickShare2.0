@@ -59,5 +59,4 @@ This app is being actively developed. Feedback, suggestions, and contributions a
 ---
 
 Made with ❤️ by Soham Kalgutkar
-
 ```
